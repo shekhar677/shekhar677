@@ -1,16 +1,26 @@
-### Hi there 👋
+## About Me :relaxed:
 
-<!--
-**shekhar677/shekhar677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wave: Hi I'm a self taught **Full Stack Engineer** </> :computer:
 
-Here are some ideas to get you started:
+who loves code, design and internet sphere.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I only speak JavaScript and sometimes Python also :relaxed:
+
+I bring conceptual ideas to fully functional applications which performs
+
+I'm great at designing and creating websites that needs cool animations with lots of unique features
+
+
+## Come hangout with me :coffee:
+
+:computer:  [https://www.thedevenv.com/](https://www.thedevenv.com/)
+
+:camera:  [https://www.instagram.com/shekhar_sg](https://www.instagram.com/shekhar_sg)
+
+:earth_asia:  [https://www.linkedin.com/in/shekhargupta677](https://www.linkedin.com/in/shekhargupta677)
+
+:octocat:  [https://github.com/TheDevEnv](https://github.com/TheDevEnv)
+
+:octocat:  [https://github.com/shekhar677](https://github.com/shekhar677)
+
+:mailbox_with_mail:  **shekhargupta677@gmail.com**
