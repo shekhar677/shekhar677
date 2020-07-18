@@ -8,7 +8,7 @@ I only speak JavaScript and sometimes Python also :relaxed:
 
 I bring conceptual ideas to fully functional applications which performs
 
-I'm great at designing and creating websites that needs cool animations with lots of unique features
+I'm great at designing and creating websites that needs cool animations with lots of unique features, and also build backend features which creates a impactful digital products
 
 
 ## Come hangout with me :coffee:
@@ -23,4 +23,9 @@ I'm great at designing and creating websites that needs cool animations with lot
 
 :octocat:  [https://github.com/shekhar677](https://github.com/shekhar677)
 
-:mailbox_with_mail:  **shekhargupta677@gmail.com**
+:mailbox_with_mail:  shekhargupta677@gmail.com
+
+
+Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/shekhar677/count.svg)
