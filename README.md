@@ -24,8 +24,3 @@ I'm great at designing and creating websites that needs cool animations with lot
 :octocat:  [https://github.com/shekhar677](https://github.com/shekhar677)
 
 :mailbox_with_mail:  shekhargupta677@gmail.com
-
-
-Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/shekhar677/count.svg)
