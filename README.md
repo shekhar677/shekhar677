@@ -25,4 +25,4 @@ I'm great at designing and creating websites that needs cool animations with lot
 
 :mailbox_with_mail:  shekhargupta677@gmail.com
 
-👋:  [https://clubhouse.com/@shekhargupta677](https://clubhouse.com/@shekhargupta677)
+👋  [https://clubhouse.com/@shekhargupta677](https://clubhouse.com/@shekhargupta677)
