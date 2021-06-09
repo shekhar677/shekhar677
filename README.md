@@ -1,28 +1,34 @@
 ## About Me :relaxed:
 
-:wave: Hi I'm a self taught **Full Stack Engineer** </> :computer:
+:wave: Hello, I'm Shekhar. A Design-minded Software Engineer focused on building beautiful interfaces & experiences
 
-who loves code, design and internet sphere.
+✨ I'm extremly good at one thing. And that's helping SaaS companies to solve problems by contributed my skills to build awesome products.
 
-I only speak JavaScript and sometimes Python also :relaxed:
+💻 During the day I'm a Software Engineer at a Startup. And in the evening I spend my time working on my own ideas or learning something new.
 
-I bring conceptual ideas to fully functional applications which performs
+😇 I help newbie developers not to make the same mistakes that I've made
 
-I'm great at designing and creating websites that needs cool animations with lots of unique features, and also build backend features which creates a impactful digital products
+📢 Apart from speaking English and Hindi, I also know JavaScript and Python :relaxed:
+
+❤️ Creating beautiful animation in web apps, designing websites and sometimes doing some Machine Learning is what I love. 
+
+💡 I bring conceptual ideas to fully functional applications which performs
+
+💠 I'm great at designing and creating websites that needs cool animations with lots of unique features, and also build backend features which creates an impactful digital products
 
 
 ## Come hangout with me :coffee:
 
-:computer:  [https://www.thedevenv.com/](https://www.thedevenv.com/)
+:computer:  [Read about me and my Blog](https://www.thedevenv.com/)
 
-:camera:  [https://www.instagram.com/shekhar_sg](https://www.instagram.com/shekhar_sg)
+:camera:  [checkout few pictures of me Instagram](https://www.instagram.com/shekhar_sg)
 
-:earth_asia:  [https://www.linkedin.com/in/shekhargupta677](https://www.linkedin.com/in/shekhargupta677)
+:earth_asia:  [Connect with me on LinkedIn](https://www.linkedin.com/in/shekhargupta677)
 
-:octocat:  [https://github.com/TheDevEnv](https://github.com/TheDevEnv)
+:octocat:  [thedevenv - GitHub](https://github.com/TheDevEnv)
 
-:octocat:  [https://github.com/shekhar677](https://github.com/shekhar677)
+:octocat:  [Shekhar - GitHub](https://github.com/shekhar677)
 
 :mailbox_with_mail:  shekhargupta677@gmail.com
 
-👋  [https://clubhouse.com/@shekhargupta677](https://clubhouse.com/@shekhargupta677)
+👋  [audio chat with me on Clubhouse](https://clubhouse.com/@shekhargupta677)
