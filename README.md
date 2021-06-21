@@ -33,10 +33,14 @@
 
 👋  [audio chat with me on Clubhouse](https://clubhouse.com/@shekhargupta677)
 <br/>
-
-### I'm listening to this music right now 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/rvlu2ctxos49bqy04g7a6tb4a)
+<br/>
 <br/>
 
 [![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekhar677)](https://github.com/shekhar677/github-readme-stats)
+<br/>
+<br/>
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/rvlu2ctxos49bqy04g7a6tb4a)
+<br/>
