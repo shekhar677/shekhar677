@@ -1,8 +1,8 @@
 ## About Me :relaxed:
 
-:wave: Hello, I'm Shekhar. A Design-minded Software Engineer focused on building beautiful interfaces & experiences
+:wave: Hello, I'm Shekhar. A Design-minded Software Engineer focused on building beautiful interfaces & impactful digital products.
 
-✨ I'm extremly good at one thing. And that's helping SaaS companies to solve problems by contributed my skills to build awesome products.
+✨ I'm extremly good at one thing. And that's helping SaaS companies to solve problems by contributing my skills and build awesome products.
 
 💻 During the day I'm a Software Engineer at a Startup. And in the evening I spend my time working on my own ideas or learning something new.
 
@@ -12,9 +12,9 @@
 
 ❤️ Creating beautiful animation in web apps, designing websites and sometimes doing some Machine Learning is what I love. 
 
-💡 I bring conceptual ideas to fully functional applications which performs
+💡 I bring conceptual ideas to fully functional applications
 
-💠 I'm great at designing and creating websites that needs cool animations with lots of unique features, and also build backend features which creates an impactful digital products
+💠 I'm great at designing and creating websites that needs cool animations with lots of unique features, and also building backend features
 
 
 ## Come hangout with me :coffee:
