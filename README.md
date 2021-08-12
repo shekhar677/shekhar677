@@ -17,6 +17,11 @@
 💠 I'm great at designing and creating websites that needs cool animations with lots of unique features, and also building backend features
 
 
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## Come hangout with me :coffee:
 
 :computer:  [Personal Blog](https://www.thedevenv.com/)
