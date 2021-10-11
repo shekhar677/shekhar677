@@ -19,8 +19,8 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create an amazing GitHub Profile README](https://thedevenv.com/blog/how-to-create-an-amazing-github-profile-readme)
 - [How to use particles.js and create particle animation](https://thedevenv.com/blog/how-to-use-particles-js-in-javascript-create-particle-effect)
+- [How to create an amazing GitHub Profile README](https://thedevenv.com/blog/how-to-create-an-amazing-github-profile-readme)
 - [VS Code themes you must try](https://thedevenv.com/blog/best-vscode-themes-you-must-try)
 - [Sharpen Your Thinking](https://thedevenv.com/blog/sharpen-your-thinking)
 <!-- BLOG-POST-LIST:END -->
