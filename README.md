@@ -31,7 +31,7 @@
 
 :computer:  [Portfolio](https://shekhargupta.dev/)
 
-:camera:  [checkout few pictures of me Instagram](https://www.instagram.com/shekhar_sg)
+:camera:  [checkout few pictures of me Instagram](https://www.instagram.com/shekhargupta.dev)
 
 :earth_asia:  [Connect with me on LinkedIn](https://www.linkedin.com/in/shekhargupta677)
 
