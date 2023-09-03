@@ -29,7 +29,7 @@
 
 ## Come hangout with me :coffee:
 
-:computer:  [Personal Blog](https://www.thedevenv.com/)
+:computer:  [Personal Blog](https://shekhargupta.dev/)
 
 :camera:  [checkout few pictures of me Instagram](https://www.instagram.com/shekhar_sg)
 
