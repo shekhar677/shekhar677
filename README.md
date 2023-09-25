@@ -17,16 +17,6 @@
 💠 I'm great at designing and creating websites that needs cool animations with lots of unique features, and also building backend features
 
 
-## Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Setup Tailwind CSS with Vue 2 and Vue 3](https://thedevenv.com/blog/setup-tailwind-css-with-vue)
-- [How to use particles.js and create particle animation](https://thedevenv.com/blog/how-to-use-particles-js-in-javascript-create-particle-effect)
-- [How to create an amazing GitHub Profile README](https://thedevenv.com/blog/how-to-create-an-amazing-github-profile-readme)
-- [VS Code themes you must try](https://thedevenv.com/blog/best-vscode-themes-you-must-try)
-- [Sharpen Your Thinking](https://thedevenv.com/blog/sharpen-your-thinking)
-<!-- BLOG-POST-LIST:END -->
-
-
 ## Come hangout with me :coffee:
 
 :computer:  [Portfolio](https://shekhargupta.dev/)
@@ -43,9 +33,5 @@
 
 👋  [audio chat with me on Clubhouse](https://clubhouse.com/@shekhargupta677)
 <br/>
-<br/>
-<br/>
-
-[![Public Repo Stats](https://github-readme-stats.vercel.app/api?username=shekhar677&include_all_commits=true)](https://github.com/shekhar677/github-readme-stats)
 <br/>
 <br/>
