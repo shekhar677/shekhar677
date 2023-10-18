@@ -1,37 +1,38 @@
 ## About Me :relaxed:
 
-:wave: Hello, I'm Shekhar. A Design-minded Software Engineer focused on building beautiful interfaces & impactful digital products.
+👋 Hello, I'm Shekhar. A Design-minded Software Engineer focused on building beautiful interfaces & impactful digital products.
 
-✨ I'm extremly good at one thing. And that's helping SaaS companies to solve problems by contributing my skills and build awesome products.
+✨ I'm not just good at what I do; I excel in helping SaaS companies tackle challenges and turn them into awesome solutions.
 
-💻 During the day I'm a Software Engineer at a Startup. And in the evening I spend my time working on my own ideas or learning something new.
+💻 By day, I'm a Software Engineer at a dynamic startup. Come evening, I'm either nurturing my own innovative ideas or diving into the latest technologies.
 
-😇 I help newbie developers not to make the same mistakes that I've made
+📢 Beyond English and Hindi, I'm fluent in JavaScript and Python – my programming languages of choice. 😄
 
-📢 Apart from speaking English and Hindi, I also know JavaScript and Python :relaxed:
-
-❤️ Creating beautiful animation in web apps, designing websites and sometimes doing some Machine Learning is what I love. 
+❤️ My passion lies in crafting captivating web animations, designing beautiful websites, and occasionally delving into the world of Machine Learning.
 
 💡 I bring conceptual ideas to fully functional applications
 
-💠 I'm great at designing and creating websites that needs cool animations with lots of unique features, and also building backend features
+💠 Whether it's designing/building visually striking websites with cool animations or building robust backend features, I'm your expert in the craft of creating exceptional digital experiences. 
 
+***
+💻✨ Building [Feeding Trends](https://feedingtrends.com/)
+***
 
-## Come hangout with me :coffee:
+## Come hangout with me ☕
 
-:computer:  [Portfolio](https://shekhargupta.dev/)
+💻  [Portfolio](https://shekhargupta.dev/)
 
-:camera:  [checkout few pictures of me Instagram](https://www.instagram.com/shekhargupta.dev)
+📷  [See more of me on Instagram](https://www.instagram.com/shekhargupta.dev)
 
-:earth_asia:  [Connect with me on LinkedIn](https://www.linkedin.com/in/shekhargupta677)
+🌏  [Connect with me on LinkedIn](https://www.linkedin.com/in/shekhargupta677)
 
-:octocat:  [thedevenv - GitHub](https://github.com/TheDevEnv)
+:octocat:  [Explore my projects on GitHub (thedevenv)](https://github.com/TheDevEnv)
 
-:octocat:  [Shekhar - GitHub](https://github.com/shekhar677)
+:octocat:  [Discover my work on GitHub (Shekhar)](https://github.com/shekhar677)
 
-:mailbox_with_mail:  shekhargupta677@gmail.com
+📬  shekhargupta677@gmail.com
 
-👋  [audio chat with me on Clubhouse](https://clubhouse.com/@shekhargupta677)
+👋  [Join me for an audio chat on Clubhouse](https://clubhouse.com/@shekhargupta677)
 <br/>
 <br/>
 <br/>
