@@ -1,6 +1,6 @@
 <!-- Premium GitHub Profile README for Shekhar Gupta -->
 
-<h1 align="center">Hey 👋 I'm Shekhar Gupta</h1>
+<h1 align="center">Hey 👋 I'm Shekhar</h1>
 <h3 align="center">AI-Powered SaaS Builder • Full-Stack & Product Architect • UX-Driven Systems</h3>
 
 <p align="center">
