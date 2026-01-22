@@ -8,13 +8,26 @@
 </p>
 
 <p align="center">
-  <a href="https://shekhargupta.dev" target="_blank"><b>Website</b></a> •
-  <a href="https://www.linkedin.com/in/shekhargupta677" target="_blank"><b>LinkedIn</b></a> •
-  <a href="https://www.instagram.com/shekhargupta.dev" target="_blank"><b>Instagram</b></a> •
-  <a href="https://github.com/shekhar677" target="_blank"><b>GitHub</b></a> •
-  <a href="mailto:shekhargupta677@gmail.com" target="_blank"><b>Email</b></a> •
-  <a href="https://clubhouse.com/@shekhargupta677" target="_blank"><b>Clubhouse</b></a>
+  <a href="https://shekhargupta.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0B0B0B?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shekhargupta677" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.instagram.com/shekhargupta.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0B0B0B?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://github.com/shekhar677" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shekhargupta677@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://clubhouse.com/@shekhargupta677" target="_blank">
+    <img src="https://img.shields.io/badge/Clubhouse-0B0B0B?style=for-the-badge&logo=clubhouse&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
