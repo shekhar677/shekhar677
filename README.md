@@ -50,7 +50,7 @@ Every line of code I ship is tied to **impact, efficiency, and growth potential*
 ![WebSockets](https://img.shields.io/badge/WebSockets-0B0B0B?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-0B0B0B?style=for-the-badge&logo=swagger&logoColor=white)
 
-### 🔐 Auth & Security (Production Grade)
+### 🔐 Auth & Security
 ![JWT](https://img.shields.io/badge/JWT-0B0B0B?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-0B0B0B?style=for-the-badge&logo=auth0&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth-0B0B0B?style=for-the-badge&logo=next.js&logoColor=white)
